@@ -15,10 +15,15 @@ $(function() {
     });
 });
 
-// Highlight the top nav as scrolling occurs
-$('body').scrollspy({
-    target: '.navbar-fixed-top'
-})
+$(document).scroll(function(){
+  var height = $(window).scrollTop();
+  var target = $('.navbar-fixed-top');
+  if (height < 300 && target.hasClass('navbar-shrink')){
+    target.removeClass('navbar-shrink');
+  } else if (height > 300 && !target.hasClass('navbar-shrink')){
+    target.addClass('navbar-shrink');
+  }
+});
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
