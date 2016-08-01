@@ -11,7 +11,7 @@ description: "Welcome to the official CSU NetSec website. Here you will find all
 # Team names, titles and social links
 people:
 - name: Tyler Scott
-  pic: 1
+  pic: 0
   position: Full Stack Engineer
   social:
     - title: stack-overflow
@@ -22,7 +22,7 @@ people:
       url: https://plus.google.com/u/0/+TylerScottMathew/posts
 
 - name: Susmit Shannigrahi
-  pic: 2
+  pic: 0
   position: #
   social:
     - title: twitter
