@@ -1,28 +1,29 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://tyduptyler13.github.io
+baseurl: /NetSec
+destination: NetSec
 
 # Site settings
-title: Awesome Title
+title: NetSec
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Welcome to the official CSU NetSec website. Here you will find all public resources for our group."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Tyler Scott
   pic: 1
-  position: Lead Designer
+  position: Full Stack Engineer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: stack-overflow
-      url: #
+      url: http://stackoverflow.com/users/986971/tyler-scott
+    - title: github
+      url: https://github.com/tyduptyler13
+    - title: google-plus
+      url: https://plus.google.com/u/0/+TylerScottMathew/posts
 
-- name: Larry Parker
+- name: Susmit Shannigrahi
   pic: 2
-  position: Lead Marketer
+  position: #
   social:
     - title: twitter
       url: #
@@ -31,29 +32,10 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#  - title: github
+#    url: https://github.com/
 
 # Postal address (add as many lines as necessary)
 address:
