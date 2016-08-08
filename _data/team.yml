@@ -1,0 +1,46 @@
+# Team names, titles and social links
+- name: Tyler Scott
+  pic: 0
+  position: Full Stack Engineer
+  social:
+    - title: stack-overflow
+      url: http://stackoverflow.com/users/986971/tyler-scott
+    - title: github
+      url: https://github.com/tyduptyler13
+    - title: google-plus
+      url: https://plus.google.com/u/0/+TylerScottMathew/posts
+
+- name: Susmit Shannigrahi
+  pic: 0
+  # position: #
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: linkedin
+  #     url: #
+
+- name: Anant Shah
+  pic: 0
+
+- name: Chengyu Fan
+  pic: 0
+
+- name: Daniel Rammerd
+  pic: 0
+
+- name: Dimitrios Nektarios Kounalakis
+  pic: 0
+
+- name: Ela Sienkiewicz
+  pic: 0
+
+- name: Han Zhang
+  pic: 0
+
+- name: Manaf Gharaibe
+  pic: 0
+
+- name: Spiros Thanasoulas
+  pic: 0
