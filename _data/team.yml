@@ -1,7 +1,7 @@
 # Team names, titles and social links
 - name: Tyler Scott
-  pic: 0
-  position: Full Stack Engineer
+  pic: tyler
+  position: Full Stack/Software Engineer
   social:
     - title: stack-overflow
       url: http://stackoverflow.com/users/986971/tyler-scott
@@ -12,7 +12,7 @@
 
 - name: Susmit Shannigrahi
   pic: 0
-  # position: #
+  position: Graduate Research Assistant
   # social:
   #   - title: twitter
   #     url: #
@@ -23,27 +23,36 @@
 
 - name: Anant Shah
   pic: 0
+  position: Graduate Research Assistant
 
 - name: Chengyu Fan
   pic: 0
+  position: Graduate Research Assistant
 
 - name: Daniel Rammerd
   pic: 0
+  position: Graduate Research Assistant
 
 - name: Dimitrios Nektarios Kounalakis
   pic: 0
+  position: Research Associate
 
 - name: Ela Sienkiewicz
   pic: 0
+  position: Research Associate
 
 - name: Han Zhang
   pic: 0
+  position: Graduate Research Assistant
 
 - name: Manaf Gharaibe
   pic: 0
+  position: Graduate Research Assistant
 
 - name: Spiros Thanasoulas
   pic: 0
+  position: Research Associate
 
 - name: Christos Papadopoulos
   pic: 0
+  position: Professor
