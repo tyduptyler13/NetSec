@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -288,6 +288,7 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    color: #{{ site.data.template.color.secondary-dark }};
 }
 
 header .intro-text .intro-heading {

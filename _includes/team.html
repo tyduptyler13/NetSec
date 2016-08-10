@@ -9,7 +9,7 @@
             </div>
 
             <div class="row">
-            {% assign sorted_people = site.people | sort: 'name', 'last' %}
+            {% assign sorted_people = site.data.team | sort: 'name', 'last' %}
             {% for member in sorted_people %}
             {% assign indexMod = forloop.index | minus:1 | modulo:3 %}
             {% if indexMod == 0 %}
