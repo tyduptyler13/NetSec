@@ -180,8 +180,6 @@ fieldset[disabled] .btn-xl.active {
     max-height: 50px;
     position: relative;
     top: -75%;
-    border-radius: 20%;
-    background-color: white;
 }
 
 .navbar-default .navbar-brand {
