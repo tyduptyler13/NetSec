@@ -16,7 +16,7 @@ $(function() {
     event.preventDefault();
   });
 
-  $(document).scroll(function(){
+  var topShrink = function(){
     var height = $(document).scrollTop();
     var target = $('.navbar-fixed-top');
     if (height < 300 && target.hasClass('navbar-shrink')){
@@ -24,7 +24,11 @@ $(function() {
     } else if (height > 300 && !target.hasClass('navbar-shrink')){
       target.addClass('navbar-shrink');
     }
-  });
+  };
+
+  topShrink(); //Run once on load. (now)
+
+  $(document).scroll(topShrink);
 
   $(document).scroll(function(){
     var pos = $(document).scrollTop() + $(window).height() / 2;
