@@ -1,6 +1,9 @@
-url: https://tyduptyler13.github.io
-baseurl: /NetSec/
-destination: NetSec
+url: https://tyduptyler13.github.io #vestigial config, can ignore this option
+baseurl: /NetSec/ #This is important and should be updated accordingly
+destination: NetSec #default output
+
+# Virtually all of the following options are vestigial and unused.
+# The social options still work but haven't been touched since forking this.
 
 # Site settings
 title: NetSec
@@ -16,6 +19,8 @@ social:
 address:
 #  - line: 3481 Melrose Place
 #  - line: Beverly Hills, CA 90210
+
+# keep the following (internal jekyll config options)
 
 # Build settings
 markdown: kramdown
