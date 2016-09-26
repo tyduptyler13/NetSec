@@ -1,0 +1,8 @@
+# A yml formatted list of projects and any important links you want included. This can be expanded as the sites capabilities are expanded.
+- name: NDN
+  description: Named Data Networking - The Internet2.0
+- name: BGPmon
+  description: Border Gateway Protocol Monitor - Tracking the core of the Internet2
+- name: NDN-Sci
+- name: Netbrane
+- name: Lander
