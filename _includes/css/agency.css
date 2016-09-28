@@ -180,6 +180,8 @@ fieldset[disabled] .btn-xl.active {
     max-height: 50px;
     position: relative;
     top: -75%;
+    background-color: white;
+    border-radius: 2px;
 }
 
 .navbar-default .navbar-brand {
@@ -870,4 +872,11 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: {{ site.data.template.color.primary }};
+}
+
+#mailingList {
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 100%);
+	color: black;
+	padding: 5px;
+	font-weight: bold;
 }
