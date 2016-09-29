@@ -29,9 +29,12 @@
   pic: 0
   position: Graduate Research Assistant
 
-- name: Daniel Rammerd
-  pic: 0
+- name: Daniel Rammer
+  pic: DanRammerPicture
   position: Graduate Research Assistant
+  social:
+  - title: github
+    url: https://github.com/hamersaw
 
 - name: Dimitrios Nektarios Kounalakis
   pic: 0
@@ -54,5 +57,8 @@
   position: Research Associate
 
 - name: Christos Papadopoulos
-  pic: 0
+  pic: Papadopoulos
   position: Professor
+  social:
+  - title: link
+    url: http://www.cs.colostate.edu/~christos/
