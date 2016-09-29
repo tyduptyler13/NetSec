@@ -1,4 +1,3 @@
-url: https://tyduptyler13.github.io #vestigial config, can ignore this option
 baseurl: /NetSec/ #This is important and should be updated accordingly
 destination: NetSec #default output
 
