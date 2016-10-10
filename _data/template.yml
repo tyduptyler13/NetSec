@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: '"Varela Round", "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Didact Gothic", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: '"Varela Round","Didact Gothic","Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Varela Round","Helvetica Neue",Helvetica,Arial,sans-serif'
