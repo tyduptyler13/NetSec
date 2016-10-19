@@ -2,27 +2,15 @@
 - name: NDN
   description: Named Data Networking - The Internet2.0
   icon: cube
-  links:
-  - text: Main Site
-    url: http://named-data.net/
+  link: http://named-data.net/
 - name: BGPmon
   description: Border Gateway Protocol Monitor - Tracking the core of the Internet
   icon: cube
-  links:
-  - text: Main Site
-    url: http://bgpmon.io/
-  - text: Archive
-    url: http://bgpmon.io/archive/help
-  - text: GeoInfo
-    url: http://geoinfo.bgpmon.io/
-  - text: Detours
-    url: http://detours.bgpmon.io/
+  link: http://www.bgpmon.io/
 - name: NDN-Sci
   icon: cube
 - name: Netbrane
   icon: cube
 - name: Lander
   icon: cube
-  links:
-  - text: Main Site
-    url: https://ant.isi.edu/
+  link: https://ant.isi.edu/

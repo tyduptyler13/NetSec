@@ -46,9 +46,8 @@ the img/team folder. 0 is reserved for those without an image.
 
 __Projects__
 
-Projects are fairly new for configuration. Currently they only support name and
-description, but soon I will have the ability to add as many project links
-and other features as requested.
+Projects now support name, icon, description, and a link to attach. The config
+is fairly straight forward.
 
 __Template__
 
