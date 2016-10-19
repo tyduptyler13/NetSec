@@ -2,20 +2,12 @@
 - name: Tyler Scott
   pic: tyler
   position: Full Stack/Software Engineer
-  social:
-    - title: stack-overflow
-      url: http://stackoverflow.com/users/986971/tyler-scott
-    - title: github
-      url: https://github.com/tyduptyler13
-    - title: google-plus
-      url: https://plus.google.com/u/0/+TylerScottMathew/posts
+  link: https://github.com/tyduptyler13
 
 - name: Susmit Shannigrahi
   pic: susmit
   position: Graduate Research Assistant
-  social:
-    - title: link
-      url: http://www.cs.colostate.edu/~susmit/
+  link: http://www.cs.colostate.edu/~susmit/
 
 - name: Anant Shah
   pic: Anant
@@ -28,12 +20,10 @@
 - name: Daniel Rammer
   pic: DanRammerPicture
   position: Graduate Research Assistant
-  social:
-  - title: github
-    url: https://github.com/hamersaw
+  link: https://github.com/hamersaw
 
 - name: Dimitrios Nektarios Kounalakis
-  pic: 0
+  pic: coudim
   position: Research Associate
 
 - name: Ela Sienkiewicz
@@ -55,6 +45,4 @@
 - name: Christos Papadopoulos
   pic: Papadopoulos
   position: Professor
-  social:
-  - title: link
-    url: http://www.cs.colostate.edu/~christos/
+  link: http://www.cs.colostate.edu/~christos/
