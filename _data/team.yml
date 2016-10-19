@@ -11,8 +11,11 @@
       url: https://plus.google.com/u/0/+TylerScottMathew/posts
 
 - name: Susmit Shannigrahi
-  pic: 0
+  pic: susmit
   position: Graduate Research Assistant
+  social:
+    - title: link
+      url: http://www.cs.colostate.edu/~susmit/
 
 - name: Anant Shah
   pic: Anant
